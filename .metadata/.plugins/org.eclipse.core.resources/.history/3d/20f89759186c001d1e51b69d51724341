@@ -1,0 +1,27 @@
+package org.opentutorials.javatutorials.variables;
+
+public class constantDemo {
+
+	public static void main(String[] args) {
+
+		float a = 2.2F;
+		double b = 2.2;
+		
+		long c = 2147483648L;
+		long d = 2147483647;
+		int e = 2147483647;
+//		int f = 2147483648;
+		
+		int ten = 10;
+		int three = 3;
+		
+		float tenf= 10.0F;
+		float threef= 3.0F;
+		
+		System.out.println(a/b);
+		System.out.println(c/d);
+		System.out.println(a/d);
+
+	}
+
+}

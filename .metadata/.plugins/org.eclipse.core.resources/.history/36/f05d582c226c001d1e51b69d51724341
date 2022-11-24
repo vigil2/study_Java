@@ -1,0 +1,48 @@
+package org.opentutorials.javatutorials.variables;
+
+public class constantDemo {
+
+	public static void main(String[] args) {
+
+		float a = 2.2F;
+		double b = 2.2;
+		
+		long c = 2147483648L;
+		long d = 2147483647;
+		int e = 2147483647;
+//		int f = 2147483648;
+		
+		int ten = 10;
+		int three = 3;
+		
+		float tenf= 10.0F;
+		float threef= 3.0F;
+		
+		System.out.println(ten/three);
+		System.out.println(tenf/threef);
+		System.out.println(ten/threef);
+		System.out.println(tenf/three);
+		
+		int i = 3;
+		
+		System.out.println(i);
+		++i;
+		System.out.println(i);
+
+		String aa = "hello world";
+		String bb = new String("hello world");
+		System.out.println("boolean");		
+		System.out.println(aa==bb);
+		System.out.println(aa.equals(bb));
+
+		
+		System.out.println("if");
+		
+		if(true) {
+			System.out.println("result : true");
+		}
+		
+		
+	}
+
+}

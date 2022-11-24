@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+/Users/vigil/Desktop/Workspace/study_Java/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+4156783309.index
+3561227401.index
+2802886027.index

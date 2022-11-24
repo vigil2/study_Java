@@ -1,0 +1,11 @@
+package org.opentutorials.javatutorials.variables;
+
+public class constantDemo {
+
+	public static void main(String[] args) {
+
+		float a = 2.2F;
+		double b = 2.2;
+	}
+
+}

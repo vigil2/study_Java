@@ -1,6 +1,6 @@
 package org.opentutorials.javatutorials.logindemo;
 
-import org.opentutorials.javatutorials.numberstring.string;
+
 
 public class loginDemo {
     public static void main(String[] args) {

@@ -43,6 +43,15 @@ public class Demo_All {
 		} else {
 			System.out.println("result : false");
 		}
+		System.out.println("array");		
+		String[] classGroup = {"aaaa","b","c","d"};
+		
+		System.out.println(classGroup[0]);
+		
+		String[] classGroup2 = new String[4];
+		classGroup2[0]= "g1";
+		System.out.println(classGroup2.length); //length 배열이 담 수 있는 갯
+		
 		
 		
 	}
